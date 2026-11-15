@@ -3,6 +3,11 @@
 
 
 A Python-based data analytics project that explores job market trends, identifies in-demand skills for Data Analyst roles, and compares market requirements with an individual's existing skills.
+## Dashboard Preview
+
+![Job Market Intelligence Dashboard](dashboard.png)
+
+
 
 
 
