@@ -1,0 +1,14 @@
+data/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+job_skills.csv
+linkedin_job_postings.csv
+Python Project Idea.html
+Python Project Idea_files/
+job_skills.csv
+linkedin_job_postings.csv
+Python Project Idea.html
+Python Project Idea_files/
